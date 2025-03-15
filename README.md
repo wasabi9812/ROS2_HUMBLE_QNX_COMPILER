@@ -1,7 +1,7 @@
 # ROS2_HUMBLE_QNX_COMPILER
 
 This is rep for crosscompile x86 to aarch64 on QNX
-
+it was created to run QNX8.0 on raspberrypi4 model b 
 
 
 Documentation for QNX ROS2 Humble https://ros2-qnx-documentation.readthedocs.io/en/humble/
